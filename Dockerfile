@@ -1,11 +1,6 @@
-# Logstash
-#
-# logstash is a tool for managing events and logs
-#
-# VERSION               1.3.3
+# Journalist
 
 FROM      debian:sid
-MAINTAINER Deni Bertovic "deni@kset.org"
 
 ENV DEBIAN_FRONTEND noninteractive
 
